@@ -98,5 +98,4 @@ This project helps you understand:
 * Difference between `Row` and `Column`
 * UI alignment and spacing
 * Widget reusability
-
 ---
