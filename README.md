@@ -20,11 +20,11 @@ The app includes:
 
 ## 🎯 Features
 
-✅ Clean and simple UI design
-✅ Use of `Column` and `Row` layout widgets
-✅ Reusable container components
-✅ Responsive spacing using `MainAxisAlignment`
-✅ Styled containers with colors and rounded corners
+*✅ Clean and simple UI design
+*✅ Use of `Column` and `Row` layout widgets
+*✅ Reusable container components
+*✅ Responsive spacing using `MainAxisAlignment`
+*✅ Styled containers with colors and rounded corners
 
 ---
 ## 🛠️ Technologies Used
@@ -104,8 +104,8 @@ This project helps you understand:
 
 ## 👨‍💻 Author
 
-**Name:Shubrata Datta**
-**Student ID: 0182410012101004**
+*Name:Shubrata Datta
+*Student ID: 0182410012101004
 
 ---
 
