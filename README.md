@@ -2,8 +2,6 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-2.x-blue?logo=dart)
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)
-![License](https://img.shields.io/badge/License-MIT-orange)
 
 ---
 
@@ -29,18 +27,6 @@ The app includes:
 ✅ Styled containers with colors and rounded corners
 
 ---
-
-## 🖼️ Screenshots
-
-### 📱 App UI
-
-![App Screenshot](screenshots/app_ui.png)
-
-> 📌 **Note:**
-> Create a folder named `screenshots` in your project and add your app screenshot as `app_ui.png`.
-
----
-
 ## 🛠️ Technologies Used
 
 * Flutter
