@@ -100,11 +100,3 @@ This project helps you understand:
 * Widget reusability
 
 ---
-
-## 👨‍💻 Author
-
-**Shubrata Datta**
-
-Student ID: 0182410012101004
----
-
